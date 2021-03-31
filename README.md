@@ -4,7 +4,8 @@
 
 # Aim           :- 
                   To create such a system where person can check or predict their Disease using X-Rays, MRI 
-                  i.e. Brain Tumor,Pneumonia,Breast Cancer,Covid or based on symptoms i.e. Heart Disease
+                  i.e. Brain Tumor,Pneumonia,Breast Cancer,Covid or based on symptoms i.e. Heart Disease Based 
+                  predicted disease user will get information like natual remidies , Exercise Diet etc. 
 
 # Features      :- 
                    basically Doctors can check two or limited X-rays for perticular disease while our system 
